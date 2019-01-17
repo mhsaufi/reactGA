@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "436070109057",
+    "firebase_url": "https://kasatria-test-app.firebaseio.com",
+    "project_id": "kasatria-test-app",
+    "storage_bucket": "kasatria-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436070109057:android:07a12c989868293f",
+        "android_client_info": {
+          "package_name": "com.kasatriatestapp4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436070109057-q16adeko4qmjcr26td43fs4gpt7k39bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZTqQ_tuwuuwrg9RpIE1Sn7npmavqzYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
